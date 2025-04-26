@@ -1,0 +1,31 @@
+# # Folders
+# config/credentials
+# input/
+# output/
+
+# # Python
+# __pycache__/
+# *.py[cod]
+
+# # Jupyter Notebooks
+# .ipynb_checkpoints/
+
+# # Virtual Environments
+# venv/
+# env/
+# *.env
+
+# # Compiled files
+# *.so
+# *.dylib
+# *.exe
+# *.dll
+
+# # Logs and databases
+# *.log
+# *.sqlite
+# *.db
+
+# # Temporary files
+# *.swp
+# *~
