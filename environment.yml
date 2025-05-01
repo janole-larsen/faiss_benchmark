@@ -1,0 +1,15 @@
+name: faiss-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - faiss-cpu
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - ipykernel
+  - jupyterlab
+  - tqdm
